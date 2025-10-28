@@ -1,4 +1,5 @@
 fastapi
+deep_translator
 uvicorn[standard]
 gunicorn
 pydantic
